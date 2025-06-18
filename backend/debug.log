@@ -1,0 +1,8 @@
+INFO 2025-06-17 19:52:14,123 autoreload 12924 8772 Watching for file changes with StatReloader
+INFO 2025-06-17 19:59:13,719 autoreload 23928 22068 Watching for file changes with StatReloader
+INFO 2025-06-17 20:07:17,775 autoreload 15036 24516 Watching for file changes with StatReloader
+INFO 2025-06-17 22:00:02,502 autoreload 13348 14724 Watching for file changes with StatReloader
+INFO 2025-06-17 22:02:18,360 basehttp 13348 6012 "OPTIONS /api/auth/login/ HTTP/1.1" 200 0
+INFO 2025-06-17 22:02:18,933 basehttp 13348 6012 "POST /api/auth/login/ HTTP/1.1" 200 612
+INFO 2025-06-17 22:02:42,617 basehttp 13348 22756 "POST /api/auth/login/ HTTP/1.1" 200 612
+INFO 2025-06-17 22:02:54,226 basehttp 13348 18700 "POST /api/auth/login/ HTTP/1.1" 200 612
